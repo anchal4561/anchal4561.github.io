@@ -1,12 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.00237d65.js",
+    "main.css": "/static/css/main.1700f092.css",
+    "main.js": "/static/js/main.1f8fffde.js",
+    "static/media/gymwolf.png": "/static/media/gymwolf.3d4bdd4941749ea6a982.png",
+    "static/media/waving-hand.gif": "/static/media/waving-hand.e8b7aa58b12e98ad37d8.gif",
+    "static/media/engagebay.png": "/static/media/engagebay.3d163912fee0c9335066.png",
+    "static/media/semrush.png": "/static/media/semrush.4c79e82ce17d93e8462f.png",
+    "static/media/home_background.jpg": "/static/media/home_background.c7513cd602794d0b7e0e.jpg",
+    "static/media/Anchal-Agrawal-Resume.pdf": "/static/media/Anchal-Agrawal-Resume.794881533136e2d1f527.pdf",
+    "static/media/profile.jpg": "/static/media/profile.01b625aef21b03427785.jpg",
+    "static/media/logo.png": "/static/media/logo.3bfed3d1881a49a4af62.png",
     "index.html": "/index.html",
-    "main.00237d65.js.map": "/static/js/main.00237d65.js.map"
+    "main.1700f092.css.map": "/static/css/main.1700f092.css.map",
+    "main.1f8fffde.js.map": "/static/js/main.1f8fffde.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.00237d65.js"
+    "static/css/main.1700f092.css",
+    "static/js/main.1f8fffde.js"
   ]
 }
