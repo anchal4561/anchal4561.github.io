@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1700f092.css",
-    "main.js": "/static/js/main.1f8fffde.js",
+    "main.js": "/static/js/main.35cce258.js",
+    "static/media/about.gif": "/static/media/about.a50a087d3e8aad894f33.gif",
     "static/media/gymwolf.png": "/static/media/gymwolf.3d4bdd4941749ea6a982.png",
     "static/media/waving-hand.gif": "/static/media/waving-hand.e8b7aa58b12e98ad37d8.gif",
     "static/media/engagebay.png": "/static/media/engagebay.3d163912fee0c9335066.png",
@@ -12,10 +13,10 @@
     "static/media/logo.png": "/static/media/logo.3bfed3d1881a49a4af62.png",
     "index.html": "/index.html",
     "main.1700f092.css.map": "/static/css/main.1700f092.css.map",
-    "main.1f8fffde.js.map": "/static/js/main.1f8fffde.js.map"
+    "main.35cce258.js.map": "/static/js/main.35cce258.js.map"
   },
   "entrypoints": [
     "static/css/main.1700f092.css",
-    "static/js/main.1f8fffde.js"
+    "static/js/main.35cce258.js"
   ]
 }
