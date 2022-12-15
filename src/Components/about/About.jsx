@@ -1,5 +1,6 @@
 import React from "react";
 import CV from "../../assets/Anchal-Agrawal-Resume.pdf";
+import about from "../../assets/about.gif"
 import "./about.css";
 const About = () => {
   return (
@@ -8,7 +9,7 @@ const About = () => {
       <span className="section__subtitle">My Introduction</span>
       <div className="about__container container grid">
         <img
-          src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif"
+          src={about}
           alt=""
           className="about__img"
         />
