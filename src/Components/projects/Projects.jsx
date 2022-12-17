@@ -12,9 +12,9 @@ import {
 import Aos from "aos";
 import "aos/dist/aos.css";
 import "./project.css"
-import project2 from "../../assets/semrush.png";
+import project2 from "../../assets/freshly.png";
 import project1 from "../../assets/engagebay.png";
-import project3 from "../../assets/gymwolf.png";
+import project3 from "../../assets/travelzone.png";
 
 const Projects = () => {
 
@@ -31,39 +31,41 @@ const Projects = () => {
           ["bx bxl-react", "#11cdef"],
         ],
         link: "https://myengagebay.netlify.app/",
-        github: "https://github.com/isky27/stupendous-afterthought-9911",
+        github: "",
         order: ["1", "2"],
         img: project1,
       },
       {
         id: 2,
-        heading: "Semrush-Clone",
+        heading: "Travelzone",
         description:
-          "Semrush is the online visibility management and content marketing SaaS platform",
+          "Travelzone is a travel agency in India provides customized packages for Holidays & Vacations.",
         techs: [
-          ["bx bxl-html5", "#f1a118"],
+           ["bx bxl-html5", "#f1a118"],
           ["bx bxl-css3", "hsl(214, 87%, 50%,0.8)"],
           ["bx bxl-javascript", "#f7df1a"],
+          ["bx bxl-react", "#11cdef"],
         ],
-        link: "https://semrush.netlify.app/",
-        github: "https://github.com/isky27/spicy-yak-7891",
+        link: "https://mytravelzone.netlify.app",
+        github: "https://github.com/anchal4561/Travelzone",
         order: ["2", "1"],
-        img: project2,
+        img: project3,
       },
       {
         id: 3,
-        heading: "Gymwolf-Clone",
+        heading: "Freshly-Clone",
         description:
-          "Gymwolf is a workout tracking tool. Add workouts, create your own customized workout plans or find suitable plan from other users.",
+          "Freshly is a weekly subscription that delivers fresh meals.",
         techs: [
           ["bx bxl-html5", "#f1a118"],
           ["bx bxl-css3", "hsl(214, 87%, 50%,0.8)"],
           ["bx bxl-javascript", "#f7df1a"],
+          ["bx bxl-react", "#11cdef"],
         ],
-        link: "https://gymwolf1.netlify.app/",
-        github: "https://github.com/isky27/resonant-dinosaurs-925",
+        link: "https://sophisticated-legs-486.netlify.app",
+        github: "https://github.com/anchal4561/freshly-clone",
         order: ["1", "2"],
-        img: project3,
+        img: project2,
       },
     ];
 
