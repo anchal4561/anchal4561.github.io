@@ -18,7 +18,7 @@ const About = () => {
             Aspiring full-stack web developer with an experience of working on a
             variety of web applications and having a strong understanding of
             React and Redux. Proficient in Node.js, Express, and MongoDB. A
-            quick learner with strong work ethic.I did my B.Tech. in Information
+            quick learner with strong work ethic.Completed B.Tech. in Information
             Technology from KIET Group of Institutions, Ghaziabad. After
             graduation I have done job as Software Enginner for 3 years.
           </p>
